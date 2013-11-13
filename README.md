@@ -1,2 +1,2 @@
 gh-pages
-easternshoreenergy.net
+www.easternshoreenergy.net
