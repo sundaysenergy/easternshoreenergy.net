@@ -1,0 +1,198 @@
+body {
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding-bottom: 5px;
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-left: 5px;
+	vertical-align: top;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	background-image: url(../../images/body_bg.jpg);
+	background-attachment: fixed;
+}
+
+.maincontent {
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	vertical-align: top;
+	background-color: #FFFFFF;
+	border-right: 1px solid #A5B8E4;
+	border-left: 1px solid #A5B8E4;
+	border-top: 1px solid #A5B8E4;
+	border-bottom: 1px solid #A5B8E4;
+}
+
+a:link {
+	color: #1E2B82;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #0033FF;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+a:visited {
+	color: #1E2B82;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.tabs {
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding-bottom: 4px;
+	padding-top: 4px;
+	padding-right: 4px;
+	padding-left: 4px;
+	text-align: center;
+	vertical-align: top;	
+	background-image: url(../../images/tab.jpg);
+	font-family: Arial, Helvetica, sans-serif;
+	color: #ffffff;
+	font-size: small;
+	font-weight: normal;
+}
+
+.tabs a:link {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.tabs a:hover {
+	color: #FFCC00;
+	text-decoration: underline;
+}
+
+.tabs a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.tabsnow {
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding-bottom: 4px;
+	padding-top: 4px;
+	padding-right: 4px;
+	padding-left: 4px;
+	text-align: center;
+	vertical-align: top;	
+	background-image: url(../../images/tab_now.jpg);
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: small;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.tabsnow a:link {
+	color: #1E2B82;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.tabsnow a:hover {
+	color: #0033FF;
+	text-decoration: underline;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.homepanel {
+	background-image: url(../../images/dkblue_grad_bg.jpg);
+	color: #ffffff;
+	text-decoration: none;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	vertical-align: top;
+}
+
+.homepanel a:link {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.homepanel a:hover {
+	color: #FFCC00;
+	text-decoration: underline;
+}
+
+.homepanel a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.headline {
+	font-size: medium;
+	font-weight: bold;		
+}
+
+.title {
+	font-size: large;
+	font-weight: bold;
+	color: #1E2B82;
+	text-align: center;
+}
+
+.hometitle {
+	font-weight: bold;
+	color: #ffffff;
+}
+
+.divider {
+	margin-top: 8px;
+	padding-bottom: 8px;
+	border-top: 1px solid #A5B8E4;
+	width: 100%;
+}
+
+.bluebox {
+	border-right: 1px solid #A5B8E4;
+	border-left: 1px solid #A5B8E4;
+	border-top: 1px solid #A5B8E4;
+	border-bottom: 1px solid #A5B8E4;
+}
+
+.textcenter {
+	text-align: center;
+}
+
+.textright {
+	text-align: right;
+}
+
+.footer {
+	font-size: x-small;
+	text-align: center;
+}
+
+.textleft {
+	text-align: left;
+}
+
+.homeslides {
+	vertical-align: middle;
+}
